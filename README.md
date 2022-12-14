@@ -1,4 +1,4 @@
-# TODO App
+# App gh-repos handler
 TAP **[PREVIEW LINK](https://andriifront.github.io/rct-ts-rdxtlkt-tlwnd/)** TO SEE DEMO
 
 
